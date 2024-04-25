@@ -1,0 +1,20 @@
+[alias]
+s = status
+st = status
+c = commit
+ci = commit
+ca = commit -a
+cm = commit -m
+cam = commit -am
+co = checkout
+cob = checkout -b
+br = branch
+ba = branch -a
+mg = merge
+rb = rebase
+rbi = rebase -i
+l = log
+lg = log --graph --oneline --decorate --all
+d = diff
+ds = diff --staged
+cl = clean -fd
